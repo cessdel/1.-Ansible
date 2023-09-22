@@ -1,0 +1,7 @@
+---
+mysql_root_password: " "
+app_user: "cess"
+http_host: "cdelgado.com"
+http_conf: "cdelgado.com.conf"
+http_port: "80"
+disable_default: true
